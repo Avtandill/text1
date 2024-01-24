@@ -1,0 +1,15 @@
+.box {
+    border: 1px solid #888888;
+    background-color: #FFFFFF;
+    width: 300px;
+    height: 300px;
+    margin-top: 77px;
+    margin-left: 37px;
+}
+p {
+    text-align: justify;
+}
+h1 {
+    color: #FF0000;
+    text-align: center;
+}
